@@ -2,3 +2,5 @@ Table
 Rulers
 Socks
 3D Printer
+Laser Cutter
+Wallpaper
